@@ -60,7 +60,7 @@ public class Main {
 
     /** Method to print the list
      * Checks to see if the list should be printed with item numbers
-     * @param numbered
+     * @param numbered Checks to see if the list should be numbered
      */
     private static void print(Boolean numbered) {
         if (numbered) {
